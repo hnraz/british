@@ -1,0 +1,141 @@
+.body{
+	background-color:#333;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#body{
+	background-color:#3C3E94;
+	height:auto;
+	width:850px;
+	margin:auto;
+	border-top-right-radius:10px;
+	border-top-left-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	overflow:hidden;
+}
+#Gudiya{
+	background-color:#0C3;
+	height:125px;
+	padding-top:5px;
+	border-top-right-radius:10px;
+	border-top-left-radius:10px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
+#logo{
+	background-color:silver;
+	height:auto;
+	padding-top:5px;
+	border-top-left-radius:20px;
+	border-bottom-left-radius:20px;
+}
+#banner{
+	background-color:silver;
+	height:auto;
+	padding-top:5px;
+
+}
+#time{
+	background-color:silver;
+	height:auto;
+	border-top-right-radius:20px;
+	border-bottom-right-radius:20px;
+}
+#Gidi{
+	background-color:red;
+	height:30px;
+}
+gidi{
+	background-color:#333;
+	height:35px;
+	padding:2px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+}
+
+			.gu img{
+				border:5px solid white;
+				-webkit-box-shadow:8px 9px 12px black;
+				box-shadow:5px 5px 5px black;
+				height:150px;
+				widht:100px;
+				-webkit-transition:all 1s ease;
+				transition:all 1s ease;
+				margin:auto;
+				}
+			.gu .one:hover{
+				border:5px solid #333;
+				-webkit-box-shadow:10px 12px 15px #111;
+				box-shadow:5px 5px 5px #111;
+				height:200px;
+				}
+			.gu .two:hover{
+				border:5px solid #333;
+				-webkit-box-shadow:10px 12px 15px #111;
+				box-shadow:5px 5px 5px #111;
+				transform:rotate(30deg);
+				height:200px;
+				}
+			.gu .three:hover{
+				border:5px solid #333;
+				-webkit-box-shadow:10px 12px 15px white;
+				box-shadow:10px 10px 10px white;
+				transform:rotate(-30deg);
+				height:200px;
+				}
+			.gu .fore:hover{
+				border:5px solid #333;
+				-webkit-box-shadow:10px 12px 15px white;
+				box-shadow:10px 10px 10px white;
+				transform:rotate(-30deg);
+				height:200px;
+				}
+			.gu .five:hover{
+				border:5px solid #333;
+				-webkit-box-shadow:10px 12px 15px white;
+				box-shadow:10px 10px 10px white;
+				transform:rotate(-360deg);
+				transform:rotate(+30deg);
+				height:200px;
+				}
+			#sex{
+				width:500px;
+				height:400px;
+				background:silver;
+				margin:auto;
+				box-shadow:1px 2px 10px 5px;
+				border-bottom-left-radius:5px;
+				border-bottom-right-radius:5px;
+				border-top-right-radius:5px;
+				border-top-left-radius:5px;
+				}
+			.hello{
+				color:white;
+				text-shadow:3px 5px 2px #000;
+				}
+			
+			#box{
+				background-color:#003;
+				height:5px;
+			}
+			a:hover{color:White;
+				background-color:#0F0;}
+			a:link{text-decoration:inherit;}
+			#GUI{
+				background-color:#3F0;
+				height:20px;
+				}
+			#news{
+				background-color:#0C6;
+				height:36px;
+			}
+			#news1{
+				background-color:#CC0;
+				height:36px;
+			}
+
+			
+

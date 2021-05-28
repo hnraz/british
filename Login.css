@@ -1,0 +1,39 @@
+.Gudiya{
+	background-color:silver;
+	height:700px;
+	padding-top:20px;
+}
+#Gudiya{
+	background-color:#09F;
+	height:90px;
+	width:600px;
+	margin:auto;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	box-shadow:2px 3px 3px 2px #000;
+}
+.hello{
+				color:white;
+				text-shadow:3px 5px 2px #000;
+				}
+#body{
+	background-color:#09F;
+	height:330px;
+	width:600px;
+	margin:auto;
+	border-top-left-radius:40px;
+	border-top-right-radius:40px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	box-shadow:2px 3px 3px 2px #000;
+}
+#box1{
+	background-color:white;
+	height:590px;
+	width:660px;
+	margin:auto;
+	padding-top:60px;
+	border:1px solid #000;
+}
